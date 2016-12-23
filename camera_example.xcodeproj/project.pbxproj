@@ -179,6 +179,7 @@
 				TargetAttributes = {
 					592FF8B418ECBD7600C164F8 = {
 						DevelopmentTeam = RX7SLMYPCG;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
